@@ -5,7 +5,6 @@ go 1.17
 require (
 	github.com/gizak/termui/v3 v3.0.0
 	github.com/hajimehoshi/go-mp3 v0.1.1
-	github.com/hajimehoshi/oto v0.1.1
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/kr/pty v1.1.5
 	github.com/lunixbochs/vtclean v1.0.0
